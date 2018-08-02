@@ -1,0 +1,13 @@
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\bin\Debug\ContactInfo.mdf
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\bin\Debug\ContactInfo_log.ldf
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\bin\Debug\ClassLibrary1.xml
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\obj\Debug\ContactInfoDO.vbprojAssemblyReference.cache
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\obj\Debug\ContactInfoDO.vbproj.GenerateResource.cache
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\obj\Debug\ContactInfoDO.vbproj.CoreCompileInputs.cache
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+C:\Users\jslun\OneDrive\FIU\2017-2018\Summer 2018\COP 4005 Windows Programming\Homeworks\Homework 4\ContactInfoDB\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
